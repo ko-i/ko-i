@@ -1,3 +1,3 @@
-- Hello & welcome
-- Plz don't try 2 understand my code, u r wasting time
-- The repo's owener is a student & he wants 2 play with some small projects, c or rust, telling him if u have any interesting idea
+- Hello and welcome
+- Please don't try to understand my code, you are wasting time
+- The repo's owener is a student and he wants to play with some small projects, c or rust, telling him if you have any interesting idea
