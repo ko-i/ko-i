@@ -1,2 +1,2 @@
-- Hello and welcome back.
-- Please don't try to understand my code.
+- Hello and welcome
+- Please don't try to understand my code
