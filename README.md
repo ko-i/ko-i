@@ -5,6 +5,8 @@
 在整个大学生涯中，我将我的主要精力与时间投入在了这两个部分中:（1）**学习与训练基础数据结构与算法设计的能力**，（2）**从事运用深度学习方法来对恶意代码进行检测与分类的相关工作研究**。  
 In my student career, I devoted myself in two major parts: (1). **Training my base data structure and algorithms skills**, (2). **Doing research on malware detection with deep learning method**.
 
+---
+
 我对写代码有着巨大的热情与兴趣。每天坚持写代码与沉迷leetcode使我拥有了非常坚实与扎实的**代码功底、基本的数据结构与算法设计能力**，我将相关的数据结构与算法编程练习过程都记录在了这里[https://github.com/ko-i/leetcode](https://github.com/ko-i/leetcode)，您也可以点击上方表格中的相关链接（我的leetcode主页）来查看。  
 I have **huge passion in coding**. keeping coding and addicted to leetcode every day, **my coding ability, base structure and algorithms designing skills are very solid and strong**. I recorded this training process in [https://github.com/ko-i/leetcode](https://github.com/ko-i/leetcode) , you can also click directly on the relevant links in the table above.
 
