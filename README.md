@@ -1,5 +1,3 @@
----
-
 在整个大学生涯中，我将我的主要精力与时间投入在了这两个部分中:（1）**学习与训练基础数据结构与算法设计的能力**，（2）**从事运用深度学习方法来对恶意代码进行检测与分类的相关工作研究**。  
 In my student career, I devoted myself in two major parts: (1). **Training my base data structure and algorithms skills**, (2). **Doing research on malware detection with deep learning method**.
 
