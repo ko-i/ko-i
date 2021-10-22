@@ -1,2 +1,2 @@
 - Hello and welcome
-- The repo's owener is a student and he wants to play with some small projects, c or rust, telling him if you have any cool idea
+- The repo's owener is a student and he wants to play with some projects, c or rust, telling him if you have any cool idea
