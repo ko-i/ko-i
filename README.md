@@ -1,2 +1,2 @@
-- Hello and welcome :)
-- I am very happy now.
+- Hello and welcome
+- I'm very glad you came :)
